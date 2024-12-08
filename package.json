@@ -1,0 +1,20 @@
+{
+  "name": "node-package",
+  "version": "1.0.0",
+  "description": "this is learning purpose node js",
+  "main": "myfirst.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "nodemon myfirst.js"
+  },
+  "keywords": [
+    "npm",
+    "node.js",
+    "nodemon"
+  ],
+  "author": "sagor ahmed tahsan",
+  "license": "ISC",
+  "dependencies": {
+    "random-fruits-name": "^1.10.1"
+  }
+}
